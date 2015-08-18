@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 //        附加到当前Activity
         mSlidingMenu.attachToActivity(this,SlidingMenu.SLIDING_CONTENT);
 //        设置SlidingMenu布局资源
-        mSlidingMenu.setMenu(R.layout.layout_slidingmenu);
+        mSlidingMenu.setMenu(R.layout.layout_sliding_menu);
 
     }
 
